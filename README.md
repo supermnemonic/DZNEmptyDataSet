@@ -52,15 +52,8 @@ By just conforming to DZNEmptyDataSetSource & DZNEmptyDataSetDelegate, you will 
 
 Available in [CocoaPods](http://cocoapods.org/?q=DZNEmptyDataSet)
 ```ruby
-pod 'DZNEmptyDataSet'
+pod 'DZNEmptyDataSet', :git => 'https://github.com/supermnemonic/DZNEmptyDataSet.git'
 ```
-
-To integrate DZNEmptyDataSet into your Xcode project using Carthage, specify it in your `Cartfile`:
-
-```ruby
-github "dzenbot/DZNEmptyDataSet"
-```
-
 
 ## How to use
 For complete documentation, [visit CocoaPods' auto-generated doc](http://cocoadocs.org/docsets/DZNEmptyDataSet/)
